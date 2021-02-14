@@ -1,6 +1,3 @@
-Created the shell directory
-Inside Shell directory - created creatingusers file
-
 
 shollay@webserver01:~/Desktop$ cd
 shollay@webserver01:~$ mkdir Shell
